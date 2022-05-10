@@ -1,0 +1,5 @@
+package com.luv2code.springsecurity.demo.validation;
+
+public @interface ValidEmail {
+
+}
