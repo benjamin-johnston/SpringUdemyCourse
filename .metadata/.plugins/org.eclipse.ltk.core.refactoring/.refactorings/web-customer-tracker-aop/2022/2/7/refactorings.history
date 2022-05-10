@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.luv2code.springdemo.aspect.CRMLoggingAspect&apos; to &apos;LoggingAspect&apos;&#x0D;&#x0A;- Original project: &apos;web-customer-tracker-aop&apos;&#x0D;&#x0A;- Original element: &apos;com.luv2code.springdemo.aspect.CRMLoggingAspect&apos;&#x0D;&#x0A;- Renamed element: &apos;com.luv2code.springdemo.aspect.LoggingAspect&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CRMLoggingAspect&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.luv2code.springdemo.aspect{CRMLoggingAspect.java[CRMLoggingAspect" matchStrategy="1" name="LoggingAspect" qualified="false" references="true" similarDeclarations="false" stamp="1644172954203" textual="false" version="1.0"/>
-</session>

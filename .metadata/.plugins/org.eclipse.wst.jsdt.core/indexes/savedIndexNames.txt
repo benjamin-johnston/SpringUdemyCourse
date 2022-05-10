@@ -1,4 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Ben\Eclipse\Workspaces\Java\SpringUdemyCourse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-654468187.index
-3740802276.index
-2034636705.index
